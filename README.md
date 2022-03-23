@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 - 📲 +998 (99) 702-36-50
 - <a href="https://t.me/mensenvau">
   <img align="left" alt="samadovbb" width="22" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" /> @samadovbb
-</a> 
+</a>
+
 - 📩 samadovbb@mail.ru
 
 👀 if you come to Bukhara let's talk over coffee/tea 👉👈
