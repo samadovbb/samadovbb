@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 - <a href="https://t.me/mensenvau">
   <img align="left" alt="samadovbb" width="22" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" /> @samadovbb
 </a> 
-
 - 📩 samadovbb@mail.ru
 
-👀 if you come to Bukhara let's talk over coffe/tea 👉👈
+👀 if you come to Bukhara let's talk over coffee/tea 👉👈
