@@ -1,5 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" >
 
+![](https://visitor-badge.glitch.me/badge?page_id=samadovbb.samadovbb)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58a6ff&center=true&lines=Welcome+to+my+Github+profile;My+name+is+Bobir+(Samadov))](https://itc-buxdu.uz)
 
 <!--
