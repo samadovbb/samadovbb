@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=samadovbb.samadovbb)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58a6ff&center=true&lines=Welcome+to+my+Github+profile;My+name+is+Bobir+(Samadov))](https://itc-buxdu.uz)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58a6ff&center=true&lines=Welcome+to+my+Github+profile;My+name+is+Bobir+(Samadov))](https://t.me/samadovbb)
 
 <!--
 **samadovbb/samadovbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
