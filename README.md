@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me: 
 - 📲 +998 (99) 702-36-50
-- <a href="https://t.me/mensenvau">
+- <a href="https://t.me/samadovbb">
   <img align="left" alt="samadovbb" width="22" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" /> @samadovbb
 </a>
 
